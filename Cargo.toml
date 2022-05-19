@@ -37,6 +37,7 @@ debug = true
 [dependencies]
 fixedbitset = { version = "0.4.0", default-features = false }
 indexmap = { version = "1.6.2" }
+priority-queue = "1.2.1"
 quickcheck = { optional = true, version = "0.8", default-features = false }
 serde = { version = "1.0", optional = true }
 serde_derive = { version = "1.0", optional = true }

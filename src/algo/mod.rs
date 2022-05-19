@@ -8,6 +8,7 @@ pub mod astar;
 pub mod bellman_ford;
 pub mod dijkstra;
 pub mod dominators;
+pub mod dstar_light;
 pub mod feedback_arc_set;
 pub mod floyd_warshall;
 pub mod isomorphism;
